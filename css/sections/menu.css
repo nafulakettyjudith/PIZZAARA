@@ -1,0 +1,101 @@
+.menu h4, h2{
+  text-align: center;
+
+
+
+}
+
+
+.menu__container ul {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 3px solid gray;
+line-height: 0.3;
+padding: 1em;
+margin-bottom: 1em;
+  
+}
+.menu__container ul li a{
+  text-decoration: none;
+  color:black;
+}
+.menu__border{
+  padding-bottom: 4em;
+  border-bottom:4em;
+  
+}
+.menu__container ul li a:hover{
+
+  color: #eea534;
+  border-bottom: 3px solid #eea534;
+}
+.menu__items{
+  display: flex;
+  justify-content: space-between;
+}
+.menu__item{
+  text-align: center;
+
+}
+
+.menu__item__content{
+  background-color:#f4f7fb;
+  padding-top: 7em;
+  margin-top: -7em;
+  padding-bottom: 3em;
+
+}
+.menu__item__content p:not(:nth-child(2)){
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.menu__item__content p:nth-child(2){
+  font-size: 1.3rem;
+}
+
+.menu__item__button{
+  margin-top: -2em; 
+}
+
+.menu__item__button button{
+  background-color: black;
+  color: white;
+  padding: 1em 4em;
+  font-size:1.2em ;
+  font-weight: bold;
+  }
+
+.menu__item__button{
+padding-right: 8rem;
+padding-top: 5rem;
+}
+
+.menu__item__button{
+  background-color:#f4f7fb;
+  color: white;
+  padding-top: 2rem 4rem;
+  margin-top: 2rem 4rem;
+}
+.menu__viewmore__button{
+  display: block;
+  margin: 0 auto;
+  color: white;
+  padding: 2em 4em;
+  font-size: 1.2em;
+  font-weight: bold;
+  background-color: #eea534;
+border-radius: 5px;
+border: none;
+margin-top: 2em;
+margin-bottom: 3rem;
+}
+.h4__paragragh{
+  align-items: center;
+}
+
+
+
+
+
+
+

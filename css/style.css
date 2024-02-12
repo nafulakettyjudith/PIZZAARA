@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&display=swap');
+@import url("sections/header.css");
+@import url("sections/menu.css");
+@import url("sections/whyus.css");
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Kanit', sans-serif;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+h2{
+  font-size: 3.5rem;
+}
+h4{
+  font-size: 1.3rem;
+}
+.text__orange{
+  color: #EEA539;
+}
+.text__black{
+  color:black;
+}
+.text__grey{
+  color: grey;
+}
+
+

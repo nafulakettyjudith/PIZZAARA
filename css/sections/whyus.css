@@ -1,0 +1,47 @@
+.whyus{
+    display: flex;
+    gap: 3rem;
+}
+
+.fresh img{
+    background-color:black; 
+  }
+ 
+  
+  .whyus{
+    display: flex;
+  }
+  .icon{
+    background-color:#f4f7fb;
+  }
+  .container__email{
+    display: flex;
+    justify-content:center;
+    gap:7rem;
+  }
+  .container__email{
+    background-color: #f4f7fb;
+    padding-top: 7em;
+    margin-top: -7em;
+    padding-bottom: 3em;
+
+  }
+  .container__email h4{
+    font-size: 1.2em;
+    font-weight: bold;
+
+  }
+  .footer{
+    background-color: black;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    margin-top: 5em;
+    padding: 1em 0;
+    height: 40vh;
+  }
+  
+  
+
+
+
